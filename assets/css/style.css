@@ -1,3 +1,6 @@
+html{
+    height:100%;
+}
 body{
     background-image: url("../images/ep_naturalwhite.png");  
     color: #777777;
@@ -53,6 +56,13 @@ h1{
     padding: 25px;
     width: 200px;
 }
+header{   
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    position: relative;
+    width:982px;          
+}
 img{    
     margin-right: 15px;    
 }
@@ -103,7 +113,10 @@ ul{
     background-color: #ffffff;
     border: #dddddd 1px solid;
     margin: auto;
+   margin-top: 110px;
+   margin-bottom: 25px;
     min-height: 185px;
+   /* overflow: auto;*/
     padding: 10px;
     width: 960px;    
 }
@@ -115,12 +128,8 @@ ul{
 .imgLink{    
     width:150px;height:150px;
 }
-header{   
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
+.relativePosition{
     position: relative;
-    width:982px;      
 }
 #divHeader-container{
     background-color: #ffffff;
@@ -128,5 +137,7 @@ header{
     margin:0px;
     margin-bottom: 40px;
     padding:0px;
-    width: 100%;     
+    width: 100%;   
+    position: fixed;
+    top:0px;  
 }
