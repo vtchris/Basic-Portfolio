@@ -1,3 +1,13 @@
+<h1><em>BASIC PORTFOLIO</em></h1>
+
+Visit online at:
+https://vtchris.github.io/Basic-Portfolio/
+
+<h2>Technology</h2>
+<ul>    
+    <li>HTML/CSS</li>
+</ul>
+
 # Basic-Portfolio
 Basic-Portfolio
 
