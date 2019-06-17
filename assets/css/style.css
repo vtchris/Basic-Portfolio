@@ -128,9 +128,9 @@ ul{
 .imgLink{    
     width:150px;height:150px;
 }
-.relativePosition{
+/* .relativePosition{
     position: relative;
-}
+} */
 #divHeader-container{
     background-color: #ffffff;
     border-bottom: #cccccc 2px solid;       
